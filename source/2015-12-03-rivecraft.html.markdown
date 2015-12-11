@@ -1,7 +1,7 @@
 ---
 title: Rivecraft
 date: 2015-12-03 17:12 UTC
-tags: Design, Wordpress
+tags: 
 image: rivecraft1.png
 ---
 <div>
