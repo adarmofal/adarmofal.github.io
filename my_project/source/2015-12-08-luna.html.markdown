@@ -1,5 +1,5 @@
 ---
-title: Luna Lights Redesign
+title: Luna Lights
 date: 2015-12-08 17:30 UTC
 tags:
 image: luna-lights.png
